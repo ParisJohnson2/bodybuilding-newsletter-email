@@ -201,16 +201,16 @@
 
 
       <mj-column width="25%">
-       <mj-image alt="header-email-title" align="center" src="./components/quick-link-img-1.PNG" width="180px" href="#" border-radius="50%" />
+       <mj-image alt="quick-link" align="center" src="./components/quick-link-img-1.PNG" width="180px" href="#" border-radius="50%" padding="0" />
       </mj-column>
       <mj-column width="25%">
-       <mj-image alt="header-email-title" align="center" src="./components/quick-link-img-2.PNG" width="850px" href="#" border-radius="50%" />
+       <mj-image alt="quick-link" align="center" src="./components/quick-link-img-2.PNG" width="850px" href="#" border-radius="50%" padding="0" />
       </mj-column>
       <mj-column width="25%">
-       <mj-image alt="header-email-title" align="center" src="./components/quick-link-img-3.PNG" width="180px" href="#" border-radius="50%" />
+       <mj-image alt="quick-link" align="center" src="./components/quick-link-img-3.PNG" width="180px" href="#" border-radius="50%" padding="0" />
       </mj-column>
       <mj-column width="25%">
-        <mj-image alt="header-email-title" align="center" src="./components/quick-link-img-4.PNG" width="180px" href="#" border-radius="50%" />
+        <mj-image alt="quick-link" align="center" src="./components/quick-link-img-4.PNG" width="180px" href="#" border-radius="50%" padding="0" />
       </mj-column>
 </mj-group>
      </mj-section>
@@ -218,19 +218,19 @@
       <mj-section padding-right="35px" padding-left="35px" padding-top="0" background-color="rgb(18, 18, 18)" padding-bottom="5px">
 <mj-group>
       <mj-column width="20%">
-       <mj-image alt="header-email-title" align="center" src="./components/social-icon-1.PNG" width="40px" href="#" border-radius="50%" />
+       <mj-image alt="social-icon-link" align="center" src="./components/social-icon-1.PNG" width="40px" href="#" border-radius="50%" padding="0" />
       </mj-column>
       <mj-column width="20%">
-       <mj-image alt="header-email-title" align="center" src="./components/social-icon-2.PNG" width="40px" href="#" border-radius="50%" />
+       <mj-image alt="social-icon-link" align="center" src="./components/social-icon-2.PNG" width="40px" href="#" border-radius="50%" padding="0" />
       </mj-column>
       <mj-column width="20%">
-       <mj-image alt="header-email-title" align="center" src="./components/social-icon-3.PNG" width="40px" href="#" border-radius="50%" />
+       <mj-image alt="social-icon-link" align="center" src="./components/social-icon-3.PNG" width="40px" href="#" border-radius="50%" padding="0" />
       </mj-column>
       <mj-column width="20%">
-        <mj-image alt="header-email-title" align="center" src="./components/social-icon-4.PNG" width="40px" href="#" border-radius="50%" />
+        <mj-image alt="social-icon-linke" align="center" src="./components/social-icon-4.PNG" width="40px" href="#" border-radius="50%" padding="0" />
       </mj-column>
       <mj-column width="20%">
-        <mj-image alt="header-email-title" align="center" src="./components/social-icon-5.PNG" width="40px" href="#" border-radius="50%" />
+        <mj-image alt="social-icon-link" align="center" src="./components/social-icon-5.PNG" width="40px" href="#" border-radius="50%" padding="0" />
       </mj-column>
 </mj-group>
 </mj-section>
@@ -251,7 +251,7 @@
         </mj-text>
 
         <mj-text color="rgb(111, 111, 114)" font-weight="300" font-size="12px" line-height="2"  padding-bottom="5px" align="center">
-         This email was sent to&nbsp;<a href="#" target="_blank">higginstyler1@yahoo.com</a><br />You've received this email because you've subscribed to our newsletter.<br /><a href="#" class="footer-text">Unsubscribe</a>
+         This email was sent to&nbsp;<a href="#">higginstyler1@yahoo.com</a><br />You've received this email because you've subscribed to our newsletter.<br /><a href="#" class="footer-text">Unsubscribe</a>
         </mj-text>
 
 
