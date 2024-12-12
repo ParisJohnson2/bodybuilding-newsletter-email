@@ -1,0 +1,260 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .email-wording {
+        font-size: 12px;
+        font-weight: 300;
+      }
+
+      .email-links {
+        text-decoration: none;
+        font-weight: 600;
+        color: rgb(42, 72, 255);
+      }
+
+      .footer-links {
+       text-decoration: none;
+        font-weight: 600;
+        color: rgb(255, 255, 255);
+      }
+
+      .footer-text {
+         text-decoration: none;
+        font-weight: 300;
+        color: rgb(111, 111, 114);
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#F9F9F9">
+    
+    <mj-raw>
+      <!-- Start of header email title -->
+    </mj-raw>
+    <mj-section padding-top="15px" padding-bottom="0">
+      <mj-column  padding-bottom="0px">
+        <mj-image alt="header-email-title" align="center" src="./components/bodybuilding-header-hero-img.png" href="#" />
+      </mj-column>
+    </mj-section>
+   
+    
+    
+    <mj-raw>
+      <!-- start of body section -->
+    </mj-raw>
+    <mj-section padding-bottom="0px">
+      <mj-column padding-top="0px">
+        <mj-text font-size="15px" font-weight="400" padding-top="0px">
+          Hey Team,
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.8">
+          Protein, protein, protein. We can&rsquo;t get enough of it. It&rsquo;s an essential macronutrient and molecule made of amino acids that contributes muscle maintenance and growth, as well as the creation and repair of bones, organs, blood, and even skin. Research suggests that the best way to get enough protein into your diet is to do so sustainably, often achieved by eating 25-35 grams of protein per meal in addition to protein supplementation for an extra boost.
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.8" padding-bottom="0px">
+          <a href="#" class="email-links">Protein powders</a> are great, and I&rsquo;ve been consuming a scoop or two daily for 15 years to make my protein goal a sure thing&mdash;but a majority of your nutritional consumption is likely coming from whole foods throughout the day. Check out our top five rated protein sources along with the serving size to hit your recommended dose for the meal.
+        </mj-text>
+
+        <mj-text css-class="email-wording" line-height="1.8" padding-bottom="0px">
+        <ol start="1">
+        <li>
+            <strong>5 Large Eggs = ~30g of protein</strong><br /> Not only are eggs a highly digestible source of protein, but they come with the benefits of vitamins A, B, and E, along with iron, calcium, magnesium, choline, folate, and iodine. Historically fitness enthusiasts have been inclined to remove the yolk and focus on solely egg whites. While egg whites do consist of mostly protein, the nutrition mentioned above lives in the yolk. My take? Live a little and eat the yolk.
+        </li>
+        </ol>
+        </mj-text>
+
+        <mj-text css-class="email-wording" line-height="1.8" padding-top="0px" padding-bottom="0px">
+        <ol start="2">
+        <li>
+            <strong>4 Ounces of Chicken Breast = ~35g of protein</strong><br /> A staple of fellow meal preppers, chicken has a lot of protein without extra calories and is low in fat. Don&rsquo;t think chicken has to come plain with a side of broccoli and rice. Spices are a great addition for flavor and bring the added benefit of anti-inflammatory properties, antioxidants, metabolism support, and digestive support. My go-to combo for flavoring is a combo of salt, black pepper, paprika, celery salt, garlic powder, and a finisher of sesame seeds when the cooking is done.
+        </li>
+        </ol>
+        </mj-text>
+
+        <mj-text css-class="email-wording" line-height="1.8" padding-top="0px" padding-bottom="0px">
+        <ol start="3">
+        <li>
+            <strong>&frac34; Block of Extra Firm Tofu = ~32g of protein</strong><br /> Listen, whoever told you plant-based folks can&rsquo;t hit the same protein goals as meat eaters lied. As a plant forward athlete myself for nearly five years now, I can confidently say I&rsquo;m feeling and performing better now than I did on an animal-based diet. Though, to each their own. If you&rsquo;re seeking an alternative option, tofu is one of the most versatile ingredients out there. Blend it into a pesto or Bolognese sauce, cut it into strips dipped into egg followed by breadcrumbs and create tofu tenders, etc. Tofu is made of soybeans and contains both healthy fats and proteins. It is, in fact, a complete protein and will deliver essential amino acids with consumption to aid in protein synthesis.
+        </li>
+        </ol>
+        </mj-text>
+
+        <mj-text css-class="email-wording" line-height="1.8" padding-top="0px" padding-bottom="0px">
+        <ol start="4">
+        <li>
+            <strong>4 ounces of 95/5 Ground Beef = ~33g of protein</strong><br /> Lean beef can be a great addition to your meal plan. Compared to chicken, it does have more fat, thus more calories, but comes with the added benefit of slightly higher protein profiles, <a href="#" class="email-links">creatine</a>, and iron. If you find that beef slows down digestion, aim to consume at lunch then lean into a plant-based option at night so your sleep isn&rsquo;t impacted.
+        </li>
+        </ol>
+        </mj-text>
+
+        <mj-text css-class="email-wording" line-height="1.8" padding-top="0px" padding-bottom="0px">
+        <ol start="5">
+        <li>
+            <strong>6 ounces of Tempeh = ~31g of protein</strong><br /> Tempeh is another soy product&mdash;and I&rsquo;m about to bust another lie you might&rsquo;ve been told. There&rsquo;s really not a ton of evidence to support the claim that soy will increase your estrogen levels. In fact, the amount you&rsquo;d have to consume for this to happen would likely exceed the number of calories you&rsquo;d consume in a full day. This assumption always reminds me of the people who warn against consuming high levels of leafy greens due to their oxalate levels. Again, the amount you&rsquo;d have to consume daily, over a matter of years, is quite unbelievable. Don&rsquo;t fear soy-based proteins or leafy greens for that matter as they both come with an impressive nutritional profile.
+        </li>
+        </ol>
+        </mj-text>
+
+
+        <mj-text css-class="email-wording" line-height="1.8" padding-bottom="0px">
+          I can&rsquo;t stress enough the importance of leading your food choices with protein-based picks. Construct your weekly plan around some of the five options above and <a href="#" class="email-links">find your flavor </a>of protein powder for an extra edge.
+        </mj-text>
+ <mj-raw>
+      <!-- end of body section-->
+    </mj-raw>
+
+
+
+
+<mj-raw>
+      <!-- start of signoff section -->
+    </mj-raw>
+        <mj-text css-class="email-wording" line-height="1.8" padding-bottom="0px">
+          Until next time. <img draggable="false" src="https://fonts.gstatic.com/s/e/notoemoji/15.1/1f44b/72.png" alt="👋" data-emoji="👋" height="25px" width="25px"/>
+        </mj-text>
+
+        <mj-image alt="header-email-title" align="left" src="./components/danielle-bitts-signoff-sig-removebg.png" width="190px" />
+
+        <mj-text css-class="email-wording" line-height="1.8" padding-bottom="20px">
+          Danielle Bitts<br />VP of Brand, <span>Bodybuilding</span>.com
+        </mj-text>
+<mj-raw>
+      <!-- end of signoff section -->
+    </mj-raw>
+
+
+
+
+    <mj-raw>
+      <!-- start of question/link section -->
+    </mj-raw>
+     <mj-text css-class="email-wording" line-height="1.8" padding-bottom="0px">
+          <strong>Want to join our global team of athletes?</strong><br /><a href="#" class="email-links">Tap here to apply.</a>
+        </mj-text>
+
+        <mj-text css-class="email-wording" line-height="1.8" padding-bottom="0px">
+          <strong>Ready to take your performance to the next level?</strong><br /><a href="#" class="email-links">Learn more about our Elite line.</a>
+        </mj-text>
+
+        <mj-text css-class="email-wording" line-height="1.8" padding-bottom="20px">
+          <strong>Just getting started?</strong><br /><a href="#" class="email-links">Our Signature line has just what you need.</a>
+        </mj-text>
+
+
+    <mj-raw>
+      <!-- start of question/link section -->
+    </mj-raw>
+
+
+        
+      </mj-column>
+    </mj-section>
+   
+
+
+
+   
+    <mj-raw>
+      <!-- start of footer -->
+    </mj-raw>
+   
+    <mj-section padding-bottom="0px" background-color="rgb(18, 18, 18)">
+      <mj-column width="100%">
+        <mj-text color="rgb(255, 255, 255)" font-weight="300" font-size="15px" line-height="2"  padding-bottom="0px" align="center">
+         MORE FROM <a href="#" class="email-links">BODYBUILDING.COM</a>
+        </mj-text>
+      </mj-column>
+      </mj-section>
+
+      <mj-section background-color="rgb(18, 18, 18)" padding-bottom="0">
+
+<mj-group width="100%">
+      <mj-column width="50%">
+        <mj-text color="red" font-weight="300" font-size="15px" line-height="2"  padding-bottom="1px" align="center"><a href="#" class="footer-links">PROTEIN</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text color="red" font-weight="300" font-size="15px" line-height="2"  padding-bottom="1px" align="center"><a href="#" class="footer-links">PRE-WORKOUT</a>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="50%">
+        <mj-text color="red" font-weight="300" font-size="15px" line-height="2"  padding-bottom="1px" align="center"><a href="#" class="footer-links">CREATINE</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text color="red" font-weight="300" font-size="15px" line-height="2"  padding-bottom="1px" align="center"><a href="#" class="footer-links">VITAMINS &amp; HEALTH</a>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="50%">
+        <mj-text color="red" font-weight="300" font-size="15px" line-height="2"  padding-bottom="1px" align="center"><a href="#" class="footer-links">SALES &amp; DEALS</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text color="red" font-weight="300" font-size="15px" line-height="2"  padding-bottom="1px" align="center"><a href="#" class="footer-links">OUR PARTNERS</a>
+        </mj-text>
+      </mj-column>
+
+
+      <mj-column width="25%">
+       <mj-image alt="header-email-title" align="center" src="./components/quick-link-img-1.PNG" width="180px" href="#" border-radius="50%" />
+      </mj-column>
+      <mj-column width="25%">
+       <mj-image alt="header-email-title" align="center" src="./components/quick-link-img-2.PNG" width="850px" href="#" border-radius="50%" />
+      </mj-column>
+      <mj-column width="25%">
+       <mj-image alt="header-email-title" align="center" src="./components/quick-link-img-3.PNG" width="180px" href="#" border-radius="50%" />
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image alt="header-email-title" align="center" src="./components/quick-link-img-4.PNG" width="180px" href="#" border-radius="50%" />
+      </mj-column>
+</mj-group>
+     </mj-section>
+      
+      <mj-section padding-right="35px" padding-left="35px" padding-top="0" background-color="rgb(18, 18, 18)" padding-bottom="5px">
+<mj-group>
+      <mj-column width="20%">
+       <mj-image alt="header-email-title" align="center" src="./components/social-icon-1.PNG" width="40px" href="#" border-radius="50%" />
+      </mj-column>
+      <mj-column width="20%">
+       <mj-image alt="header-email-title" align="center" src="./components/social-icon-2.PNG" width="40px" href="#" border-radius="50%" />
+      </mj-column>
+      <mj-column width="20%">
+       <mj-image alt="header-email-title" align="center" src="./components/social-icon-3.PNG" width="40px" href="#" border-radius="50%" />
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image alt="header-email-title" align="center" src="./components/social-icon-4.PNG" width="40px" href="#" border-radius="50%" />
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image alt="header-email-title" align="center" src="./components/social-icon-5.PNG" width="40px" href="#" border-radius="50%" />
+      </mj-column>
+</mj-group>
+</mj-section>
+      
+      <mj-section padding-top="0" background-color="rgb(18, 18, 18)">
+
+      <mj-column width="100%">
+        <mj-text color="rgb(111, 111, 114)" font-weight="300" font-size="12px" line-height="2"  padding-bottom="10px" align="center">
+         *These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure, or prevent any disease.
+        </mj-text>
+        
+        <mj-text color="rgb(111, 111, 114)" font-weight="300" font-size="12px" line-height="2"  padding-bottom="10px" align="center">
+         Bodybuilding.com strives to give you accurate content, including product information, policies, pricing, and visual displays. Policies, pricing, and item availability are subject to change without notice, and Bodybuilding.com reserves the right to limit quantities. Prices displayed are subject to final approval at the time of order fulfillment. While Bodybuilding.com tries in good faith to make sure that the information displayed is accurate, we are not responsible for typographical errors or technical inaccuracies.
+        </mj-text>
+
+        <mj-text font-weight="300" font-size="12px" line-height="2"  padding-bottom="5px" align="center" color="rgb(111, 111, 114)">
+         <strong>Bodybuilding.com</strong><br /><strong>9169 W State St Ste 510, Boise, ID 83714</strong>
+        </mj-text>
+
+        <mj-text color="rgb(111, 111, 114)" font-weight="300" font-size="12px" line-height="2"  padding-bottom="5px" align="center">
+         This email was sent to&nbsp;<a href="#" target="_blank">higginstyler1@yahoo.com</a><br />You've received this email because you've subscribed to our newsletter.<br /><a href="#" class="footer-text">Unsubscribe</a>
+        </mj-text>
+
+
+      </mj-section>
+  </mj-body>
+</mjml>
